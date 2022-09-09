@@ -14,3 +14,11 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 </p>
 
 ------
+
+<center><h1>✮THIS IS TESTING BOT </h1> </center> 
+<h2> <font color="red" face=%Monotype Corsiva"> Join the ❝PrabuddhaOfc Support Group❞...
+<h2> <i> Whatsapp group link = "Null" </h2> 
+<h2> <br><br>Contact Owner <a href="wa.me/94774155960">CLICK NOW</a>
+<h4> <center> PRABUDDHA-OFFICIAL </center>
+<
+
