@@ -20,7 +20,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 2. Click [FORK](https://github.com/PRABUDDHA-OFFICIAL/SewwandiBotMd/fork)
 
-2. After That Upload PRABUDDHA-OFC.json File
+2. After That Upload season.json File
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
