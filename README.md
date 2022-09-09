@@ -16,6 +16,16 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 ------
 
 
-<h4> <br><br>Contact Owner <a href="wa.me/94774155960">CLICK HERE</a>
-<h4> <center> PRABUDDHA-OFFICIAL </center>
+1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
+2. Click [FORK](https://github.com/PRABUDDHA-OFFICIAL/SewwandiBotMd/fork)
+
+2. After That Upload PRABUDDHA-OFC.json File
+
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
+
+## Owner:
+* [`PRABUDDHA-OFFICIAL`](https://github.com/PRABUDDHA-OFFICIAL )
