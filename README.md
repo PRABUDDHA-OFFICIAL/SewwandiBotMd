@@ -34,4 +34,4 @@ Sewwandi Bot Multi Device is a automated whatsapp bot created by <a href="https:
 * [`PRABUDDHA-OFFICIAL`](https://github.com/PRABUDDHA-OFFICIAL )
 
 
-<h5> 𝙋𝙍𝘼𝘽𝙐𝘿𝘿𝙃𝘼 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙍𝙀𝙒 </h5>
+<h5> 𝙋𝙍𝘼𝘽𝙐𝘿𝘿𝙃𝘼 𝙊𝙁𝘾 𝘾𝙍𝙀𝙒 </h5>
