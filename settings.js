@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("https://i.imgur.com/SdZFgwU.jpeg") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94774155960'] //ur owner number
+global.ownername = "PRABUDDHA OFFICIAL™" //ur owner name
+global.ytname = "YT: PRABUDDHA-OFFICIAL" //ur yt chanel name
+global.socialm = "GitHub: github.com/PRABUDDHA-OFFICIAL" //ur github or insta name
+global.location = "PRABUDDHA OFFICIAL,MATHUGAMA" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['94774155960']
+global.ownertag = '94774155960' //ur tag number
+global.botname = 'Sewwandi Bot MD V1' //ur bot name
+global.linkz = "https://youtube.com/channel/UCtvPG7V0jVLPNFsdD1z9XvQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCtvPG7V0jVLPNFsdD1z9XvQ" //ur website to be displayed
+global.botscript = 'https://github.com/PRABUDDHA-OFFICIAL' //script link
+global.reactmoji = "🎭" //ur menu react emoji
+global.themeemoji = "♡" //ur theme emoji
+global.packname = "SEWWANDI BOT MD PRABUDDHA-OFC" //ur sticker watermark packname
+global.author = "🎭SEWWANDI BOT MD♡™" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/SdZFgwU.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/SdZFgwU.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/SdZFgwU.jpeg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/SdZFgwU.jpeg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94774155960'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -100,20 +100,20 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName = 'PRABUDDHA-OFC'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','💫','♡','🎭']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    success: 'Done ✓ ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ♡',
+    admin: 'This Feature Is Only For Admin! ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    botAdmin: 'Bot Must Be Admin First! ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    owner: 'This Feature Is Only For Owner! ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗᵐᵈ',
+    group: 'Feature Used Only For Groups!ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    private: 'Features Used Only For Private Chat! ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    bot: 'This Feature Is Only For Bot ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    wait: 'In process... ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
+    linkm: 'Where is the link? ˢᵉʷʷᵃⁿᵈⁱ ᵇᵒᵗ ᵐᵈ',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://i.imgur.com/SdZFgwU.jpeᵍ')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
