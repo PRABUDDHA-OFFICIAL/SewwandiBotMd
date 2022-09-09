@@ -15,7 +15,7 @@ Sewwandi Bot Multi Device is a automated whatsapp bot created by <a href="https:
 
 ------
 
-  ###Steps
+##Steps : 
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
