@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/PRABUDDHA-OFFICIAL" target="_blank">PRABUDDHA</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Sewwandi Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/PRABUDDHA-OFFICIAL" target="_blank">PRABUDDHA</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ------
 
+  ###Steps
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
