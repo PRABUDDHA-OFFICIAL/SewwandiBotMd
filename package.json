@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
-  "version": "4.0.0",
+  "name": "PrabuddhaBot-MD",
+  "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "xeon.js",
+  "main": "prabuddha.js",
   "type": "commonjs",
   "scripts": {
     "start": "node xeon.js"
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon",
+  "author": "prabuddha",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
